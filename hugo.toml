@@ -1,4 +1,4 @@
-# baseURL = ''
+baseURL = "https://vprusso.github.io/website/"
 # languageCode = 'en-us'
 # title = "Vincent Russo"
 # theme = 'terminal'
